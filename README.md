@@ -5,7 +5,7 @@ Aplicación web que solicita los datos bancarios.
 Para utilizar esta pequeña aplicación realizar los siguientes pasos:
 
 - Descargar el repositorio.
-- Crear archivo .env donde especificarás los el nombre, usuario y contraseña de la base de datos.
+- Crear archivo .env donde especificarás el nombre, usuario y contraseña de la base de datos.
 - Ejecutar en una terminal el comando php artisan migrate para crear las tablas creadas. (Recomendable situarte en la carpeta del proyecto)
 
 La web dispone de lo siguiente:
